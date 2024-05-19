@@ -1,0 +1,2 @@
+# risperidoneGWAS
+Risperidone GWAS scripts
