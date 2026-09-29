@@ -1,6 +1,9 @@
 # Risperidone response genome-wide association study (GWAS) pipeline
 
-**Author:** Jack Staples
+**Code Author:** Jack Staples
+
+**Published Article:** 
+Staples JW, Killam SR, Brown KE, Dalton R, Sather E, Chen Q, Loveland J, Schwanke C, Elias AF, Bigos KL, Woodahl EL. Genomic Insights Into Risperidone Treatment Outcomes in Children and Adolescents: Experience From a Psychiatric Hospital Serving Rural Youth. Clinical Pharmacology & Therapeutics (2026). https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.70287 
 
 **Overview:**
 
